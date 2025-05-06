@@ -26,3 +26,6 @@ enabled_commands:
   adven: true
   spec: true
   gmreload: true
+
+# Bitte nicht Ändern sonst Bugs (wird gefixt2)
+f3_f4_switcher_enabled: false
