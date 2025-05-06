@@ -1,0 +1,28 @@
+# Plugin-Präfix
+prefix: "&7[&bServerGM&7] "
+
+# Nachrichten
+messages:
+  self: "&aDein Spielmodus wurde zu &e%gamemode% &ageändert."
+  other: "&a%spieler% wurde in den Spielmodus &e%gamemode% &agesetzt."
+  player_not_found: "&cSpieler nicht gefunden."
+  invalid_gamemode: "&cUngültiger Spielmodus. Benutze 0/1/2/3 oder s/c/a/sp."
+  no_permission: "&cDu hast keine Berechtigung dafür."
+  must_specify_player: "&cDu musst einen Spieler angeben (Konsole)."
+  command_disabled: "&cDieser Befehl ist deaktiviert."
+  reload_success: "&aKonfiguration erfolgreich neu geladen."
+  reload_no_permission: "&cDu hast keine Berechtigung, die Konfiguration neu zu laden."
+
+# Aktivierte Befehle
+enabled_commands:
+  gm: true
+  gamemode: true
+  gmc: true
+  gms: true
+  gma: true
+  gmsp: true
+  crea: true
+  surv: true
+  adven: true
+  spec: true
+  gmreload: true
