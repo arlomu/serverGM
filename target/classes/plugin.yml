@@ -3,7 +3,7 @@ version: 0.0.5-BETA
 api-version: 1.21
 main: de.arlomu.servergm.Main
 author: arlomu
-description: a Minecraft Plugin this allow you to Switch Gamemodes
+description: Ein Minecraft-Plugin, das es Spielern ermöglicht, ihren Gamemode zu ändern, inklusive der Verwaltung von Gamemodes für andere Spieler.
 
 commands:
   gm:
