@@ -1,9 +1,9 @@
 name: serverGM
-version: 0.0.5-BETA
+version: 0.0.7-BETA
 api-version: 1.21
 main: de.arlomu.servergm.Main
 author: arlomu
-description: Ein Minecraft-Plugin, das es Spielern ermöglicht, ihren Gamemode zu ändern, inklusive der Verwaltung von Gamemodes für andere Spieler.
+description: a Minecraft Plugin this allow you to Switch Gamemodes
 
 commands:
   gm:

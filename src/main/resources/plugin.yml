@@ -1,5 +1,5 @@
 name: serverGM
-version: 0.0.6-BETA
+version: 0.0.7-BETA
 api-version: 1.21
 main: de.arlomu.servergm.Main
 author: arlomu
