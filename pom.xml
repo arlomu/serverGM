@@ -7,7 +7,7 @@
 
     <groupId>de.arlomu</groupId>
     <artifactId>serverGM</artifactId>
-    <version>0.0.5-BETA</version>
+    <version>0.0.6-BETA</version>
     <packaging>jar</packaging>
 
     <name>serverGM</name>
