@@ -27,5 +27,5 @@ enabled_commands:
   spec: true
   gmreload: true
 
-# Bitte nicht Ändern sonst Bugs (wird gefixt2)
+# Please dont Switch is a Bug (is fixing)
 f3_f4_switcher_enabled: false
